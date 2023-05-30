@@ -1,0 +1,28 @@
+body{
+    background-image: url(Abertura\ mar.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+img{
+    border-radius: 10px;
+    width: 280px;
+    justify-content: center;
+    align-items: center;
+    transition: 0.1s all;
+}
+
+img:hover{
+    display: flex;
+    transform: scale(1.1);
+    transition: all 0.5s;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+}
