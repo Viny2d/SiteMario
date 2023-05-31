@@ -16,6 +16,7 @@ header{
     background-image: url(abertura.jpg);
     color: aliceblue;
     padding-top: 20px;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 img{
@@ -57,10 +58,12 @@ h1{
     font-size: 100px;
     margin-top: 0px;
     text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 p{
     font-size: 30px;
     justify-content: center;
     text-align: justify;
+    font-family: 'Josefin Sans', sans-serif;
 }
