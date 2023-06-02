@@ -6,7 +6,7 @@
 
 body{
     color: antiquewhite;
-    background-color: rgb(25, 0, 0);
+    background-image: url(abertura.jpg);
     text-align: center;  
     align-items: center; 
     font-family: 'Josefin Sans', sans-serif;
@@ -16,18 +16,18 @@ header{
     font-size: 30px;
     background-image: url(abertura.jpg);
     color: aliceblue;
-    margin: 15px;
+    margin: 25px;
     padding: 15px;
     border-radius: 10px;
 }
 
 h1{
     color: aliceblue;
-    font-size: 55px;
+    font-size: 70px;
 }
 
 img{
-    width: 250px;
+    width: 275px;
     border-radius: 10px;
     align-items: center;
     transition: 0.1s all;
@@ -39,25 +39,11 @@ img{
     align-items: center;
     gap: 15px;
     padding: 8px;
-    margin-top: 50px;
+    margin-top: 60px;
 }
 
 img:hover{
     width: 275px;
     cursor: pointer;
     transition: 0.02;
-}
-
-h2{
-    font-size: 40px;
-    text-align: center;
-    background-color: rgb(80, 10, 10);
-    border-radius: 5px;
-}
-
-p{
-    font-size: 30px;
-    margin-top: 25px;
-    color: azure;
-    text-align: justify;
 }
