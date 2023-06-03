@@ -5,9 +5,8 @@
 }
 
 body{
-    color: antiquewhite;
+    color: aliceblue;
     background-image: url(Página2\ mario.jpg);
-    background-size: cover;
     text-align: center;  
     align-items: center; 
     font-family: 'Josefin Sans', sans-serif;
@@ -16,19 +15,17 @@ body{
 header{
     font-size: 30px;
     background-image: url(abertura.jpg);
-    color: aliceblue;
     margin: 25px;
     padding: 15px;
     border-radius: 10px;
 }
 
 h1{
-    color: aliceblue;
     font-size: 55px;
 }
 
 img{
-    width: 200px;
+    width: 175px;
     border-radius: 10px;
     align-items: center;
     transition: 0.1s all;
