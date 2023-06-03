@@ -43,7 +43,7 @@ img{
 }
 
 img:hover{
-    transform: scale(0.1);
+    transform: scale(1.080);
     transition: 0.02;
     cursor: pointer;
 }
