@@ -23,11 +23,11 @@ header{
 
 h1{
     color: aliceblue;
-    font-size: 70px;
+    font-size: 55px;
 }
 
 img{
-    width: 250px;
+    width: 200px;
     border-radius: 10px;
     align-items: center;
     transition: 0.1s all;
@@ -43,7 +43,7 @@ img{
 }
 
 img:hover{
-    transform: scale(1.080);
+    transform: scale(1.1);
     transition: 0.02;
     cursor: pointer;
 }
