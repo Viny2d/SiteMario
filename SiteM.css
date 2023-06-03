@@ -27,7 +27,7 @@ h1{
 }
 
 img{
-    width: 275px;
+    width: 250px;
     border-radius: 10px;
     align-items: center;
     transition: 0.1s all;
@@ -43,7 +43,7 @@ img{
 }
 
 img:hover{
-    width: 275px;
-    cursor: pointer;
+    transform: scale(0.1);
     transition: 0.02;
+    cursor: pointer;
 }
