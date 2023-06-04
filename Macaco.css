@@ -2,6 +2,7 @@ body{
     background-image: url(Makeico.jpg);
     background-position: center;
     background-size: cover;
+    align-items: center;
     margin: 15px;
     color: rgb(44, 44, 44);
     font-weight: bolder;
