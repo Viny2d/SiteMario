@@ -20,7 +20,7 @@ header{
 }
 
 img{
-    align-items: center;
+    text-align: center;
     width: 1100px;
     margin: 80px;
     border: solid;
