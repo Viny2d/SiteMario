@@ -13,7 +13,7 @@ body{
 }
 
 header{
-    font-size: 95px;
+    font-size: 85px;
     background-image: url(abertura.jpg);
     margin: 25px;
     padding: 15px;
@@ -23,7 +23,7 @@ header{
 img{
     gap: 20px;
     justify-content: center
-    width: 300px;
+    width: 200px;
     border-radius: 10px;
     align-items: center;
     transition: 0.1s all;
