@@ -6,7 +6,7 @@
 
 body{
     color: aliceblue;
-    background-image: url(Fundolegal.jpg);
+    background-image: url(abertura.jpg);
     background-size: cover;
     text-align: center;  
     font-family: 'Josefin Sans', sans-serif;
@@ -14,7 +14,7 @@ body{
 
 header{
     font-size: 50px;
-    background-image: url(abertura.jpg);
+    background-image: url(Fundolegal.jpg);
     margin: 25px;
     padding-top: 20px;
     padding: 20px;
